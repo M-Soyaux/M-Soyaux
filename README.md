@@ -24,7 +24,7 @@ Tenho desenvolvido conhecimentos e projetos utilizando **SQL, Power BI, DAX, Pow
 **Trilha de Carreira em Análise de Dados — Alura** - Em andamento  
 SQL • Python para Dados • Pandas • Power BI • Power Query / ETL • Fundamentos de Análise de Dados
 
-**Estatística Aplicada à Análise de Dados — Cruzeiro do Sul**
+**Estatística Aplicada à Análise de Dados em Ciência de Dados — Cruzeiro do Sul**
 
 ## Contato
 
